@@ -1,0 +1,20 @@
+img{
+    height: 150px;
+    width: auto;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.container{
+    text-align: center;
+}
+
+div{
+    margin: 2%;
+}
+
+
+body { 
+   
+    color: black;
+  }
